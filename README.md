@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm John Doe 👋</h1>
+<h1 align="center">Hi there, I'm Muhammed Senusi 👋</h1>
 
 <h2 align="center">A passionate software developer from Planet Earth</h2>
 
@@ -10,7 +10,7 @@
 
 ---
 
-I am a full-stack developer specializing in modern web technologies. I love coding, writing, speaking, traveling, and lifting heavy things.
+I am a full-stack developer specializing in modern web technologies. I love coding, gaming, driving, and lifting heavy things.
 
 ### 🛠️ Languages and Tools:
 
@@ -30,6 +30,7 @@ I am a full-stack developer specializing in modern web technologies. I love codi
 ### 📫 How to reach me:
 
 <p align="center">
-  - 📧 Email: <a href="mailto:johndoe@example.com">johndoe@example.com</a> <br>
-  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe">linkedin.com/in/johndoe</a>
+  - 📧 Email: <a href="mailto:johndoe@example.com">muhammedsenusi4@gmail</a> <br>
+  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">linkedin.com/in/MuhammedSenusi</a>
+  
 </p>
