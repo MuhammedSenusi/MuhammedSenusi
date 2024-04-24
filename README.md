@@ -1,36 +1,37 @@
-<h1 align="center">Hi there, I'm Muhammed Senusi 👋</h1>
+<h1 align="left">👋 Hi, I'm Muhammed Senusi</h1>
 
-<h2 align="center">A passionate software developer from Planet Earth</h2>
+<h3 align="left">🚀 Full-Stack Developer | Brand Identity Designer </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/johndoe" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="johndoe" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Senusi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
 ---
 
-I am a full-stack developer specializing in modern web technologies. I love coding, gaming, driving, and lifting heavy things.
+<p align="left">From JavaScript to the depths of Node.js, I build with passion and bring ideas to life in the digital world. When not coding, you might find me gaming or cruising the roads.</p>
 
-### 🛠️ Languages and Tools:
+### 💼 Technical Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <!-- Add other technologies -->
+<div align="left">
+  <!-- Icons from https://simpleicons.org/ -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <!-- Add any additional badges here -->
+</div>
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsenusi&show_icons=true&theme=algolia&count_private=true" alt="Muhammed's GitHub Stats" />
 </p>
 
-### 📈 GitHub Stats:
+### 📬 Reach Out to Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=vision-friendly-dark" width="400">
-</p>
-
-### 📫 How to reach me:
-
-<p align="center">
-  - 📧 Email: <a href="mailto:johndoe@example.com">muhammedsenusi4@gmail</a> <br>
-  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">linkedin.com/in/MuhammedSenusi</a>
-  
+<p align="left">
+  <!-- Replace `johnDoe` with your GitHub username -->
+  📧 <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">LinkedIn Profile</a>
 </p>
