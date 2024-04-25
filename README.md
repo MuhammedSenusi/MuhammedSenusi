@@ -40,7 +40,8 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsenusi&show_icons=true&theme=algolia&count_private=true" alt="Muhammed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsenusi&show_icons=true&repo=SAS-Outreach-Genuis&count_private=true&theme=algolia" alt="Muhammed's GitHub Stats" />
+
 </p>
 
 ### 📬 Reach Out to Me
