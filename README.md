@@ -47,7 +47,6 @@
 </p>
 
 ### 📬 Reach Out to Me
-
 <p align="left">
   <!-- Replace `johnDoe` with your GitHub username -->
   📧 <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
