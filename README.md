@@ -6,7 +6,7 @@
 
 
 
-<p align="left">From JavaScript to the depths of Node.js, I build with passion and bring ideas to life in the digital world. <br>  When not coding, you might find me gaming or cruising the roads.</p>
+<p align="left">From JavaScript to the depths of Node.js, I build with passion and bring ideas to life in the tech universe. When I'm not coding, you'll likely find me crafting user interfaces, gaming, or cruising the open roads.</p>
 
 
 
