@@ -9,8 +9,7 @@
 <p align="left">From JavaScript to the depths of Node.js, I build with passion and bring ideas to life in the tech universe. When I'm not coding, you'll likely find me crafting user interfaces, gaming, or cruising the open roads.</p>
 
 
-<h3 align="left">
-Programming Languages: Proficient in, Learning, and Interested In </h3>
+<h3 align="left">Proficient in, Learning, and Interested In </h3>
 
 <div align="left" dir="auto">
     <a href="https://skillicons.dev" rel="nofollow">
