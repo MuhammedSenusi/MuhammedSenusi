@@ -1,4 +1,4 @@
-<h1 align="left">👋🏽 Hi, I'm Muhammed Senusi</h1>
+<h1 align="left">👋🏿 Hi, I'm Muhammed Hassan</h1>
 
 <h3 align="left"> Full-Stack Developer | Designer </h3>
 
