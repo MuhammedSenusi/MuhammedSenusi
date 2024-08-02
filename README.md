@@ -32,6 +32,6 @@
 ### Reach Out to Me
 <p align="left">
   <!-- Replace `johnDoe` with your GitHub username -->
-  📧 <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">LinkedIn Profile</a>
+   <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
+   <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">LinkedIn Profile</a>
 </p>
