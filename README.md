@@ -1,6 +1,6 @@
 <h1 align="left">👋🏿 Hi, I'm Muhammed Hassan</h1>
 
-<h3 align="left"> Full-Stack Developer | Designer </h3>
+<h3 align="left"> Full-Stack Developer & Designer </h3>
 
 
 
