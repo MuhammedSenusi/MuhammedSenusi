@@ -18,7 +18,7 @@
   </div>
 
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsenusi&layout=compact&theme=dark" alt="Most Used Technologies" />
@@ -29,7 +29,7 @@
 
 </p>
 
-### 📬 Reach Out to Me
+### Reach Out to Me
 <p align="left">
   <!-- Replace `johnDoe` with your GitHub username -->
   📧 <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
