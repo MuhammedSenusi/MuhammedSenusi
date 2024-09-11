@@ -6,7 +6,9 @@
 
 
 
-<p align="left">From JavaScript to the depths of Node.js, I build with passion and bring ideas to life in the tech universe. When I'm not coding, you'll likely find me crafting user interfaces, gaming, or cruising the open roads.</p>
+<p align="left">I'm a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user.
+Thousands of clients have procured exceptional results while working with me.
+Delivering work within time and budget which meets client's requirements is our moto.</p>
 
 
 
