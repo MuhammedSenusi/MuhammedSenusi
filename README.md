@@ -1,6 +1,6 @@
 <h1 align="left">👋🏿 Hi, I'm Muhammed Hassan</h1>
 
-<h3 align="left"> Software engineer & UI/UX Designer </h3>
+<h3 align="left"> Software Engineer & UI/UX Designer </h3>
 
 
 
