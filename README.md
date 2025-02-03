@@ -1,39 +1,8 @@
-<h1 align="left">👋🏿 Hi, I'm Muhammed Hassan</h1>
+<h1>👋🏿 Hey, I'm Muhammed</h1>  
+<h3>Software Engineer & UI/UX Designer</h3>  
 
-<h3 align="left"> Software Engineer & UI/UX Designer </h3>
+<p>Crafting sleek, user-friendly digital experiences is my passion. I design and develop solutions that are not only visually stunning but also impactful and efficient.</p>  
 
-
-
-
-
-<p align="left">I'm a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user.
-Thousands of clients have procured exceptional results while working with me.
-Delivering work within time and budget which meets client's requirements is our moto.</p>
-
-
-
-
-
-###  GitHub Analytics
-
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsenusi&layout=compact&theme=dark" alt="Most Used Technologies" />
-</p>
-
-
-
-
-</p>
-
-### Explore My Portfolio
-<p align="left">
-   <a href="https://www.figma.com/proto/rLJiOCfheOqLvMFxQj3MT2/MSH?page-id=0%3A1&node-id=1-7&node-type=frame&viewport=763%2C2238%2C0.67&t=1lyKGReHd6KDSw73-1&scaling=min-zoom&content-scaling=fixed">Click here</a>
-</p>
-
-
-### Reach Out to Me
-<p align="left">
-  <!-- Replace `johnDoe` with your GitHub username -->
-   <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a><br>
-   <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">LinkedIn Profile</a>
-</p>
+### 📬 Let’s Connect  
+📧 <a href="mailto:muhammedsenusi4@gmail.com">Email Me</a>  
+🔗 <a href="https://www.linkedin.com/in/muhammed-hassan-7335151b5/">LinkedIn</a>  
