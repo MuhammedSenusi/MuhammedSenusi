@@ -6,4 +6,3 @@
 ### 📬 Let’s Connect
 <a href="mailto:muhammedsenusi4@gmail.com">Email Me</a>  
 
-<a href="https://muhammed-senusi.framer.website/">My portfolio: Pure brilliance!</a> 
