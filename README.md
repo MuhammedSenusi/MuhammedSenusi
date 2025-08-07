@@ -1,7 +1,7 @@
-<h1>👋🏿 Hey, I'm Muhammed</h1>  
-<h3>Software Engineer & Product Designer</h3>  
+<h1>👋🏿Hey, I'm Muhammed</h1>  
+<h3>Product Designer</h3>  
 
-<p>Focused on designing and building simple, user-friendly experiences.</p>  
+<p>I'm a Product Designer who knows how to code.</p>  
 
 ### 📬 Let’s Connect
 <a href="mailto:muhammedsenusi4@gmail.com">Email Me</a>  
