@@ -3,6 +3,8 @@
 
 <p>I'm a Product Designer who knows how to code.</p>  
 
-### 📬 Let’s Connect
-<a href="mailto:muhammedsenusi4@gmail.com">Email Me</a>  
+
+<p>Email me at<a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a> or book a <a href="https://calendly.com/muhammed-hassan/30min">meeting</a> </p> 
+
+
 
