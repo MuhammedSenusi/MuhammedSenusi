@@ -8,7 +8,7 @@
 <p>I’m a product designer with a software engineering background.</p>  
 
 
-<p>Email me at <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a> or book a <a href="https://calendly.com/muhammed-hassan/30min">meeting</a> </p> 
+<p>Email me at <a href="mailto:muhammedsenusi4@gmail.com">muhammedsenusi4@gmail.com</a> </p> 
 
 
 </body>
