@@ -2,7 +2,7 @@
 <html>
 <body>
   
-<h1>👋🏼 Hey, I'm Muhammed</h1>  
+<h1>👋🏽 Hey, I'm Muhammed</h1>  
 <h3>Product Designer</h3>  
 
 <p>I’m a product designer with a software engineering background.</p>  
